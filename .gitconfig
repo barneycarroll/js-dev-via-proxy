@@ -1,0 +1,4 @@
+[http]
+	proxy = http://username:password@proxyhost.tld:portnumber
+[https]
+	proxy = https://username:password@proxyhost.tld:portnumber

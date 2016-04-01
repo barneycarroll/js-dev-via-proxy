@@ -1,0 +1,10 @@
+# Ignore everything... 
+*
+
+# ...except:
+!.bowerrc
+!.curlrc
+!_curlrc
+!.gitconfig
+!.gitignore
+!.npmrc
