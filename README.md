@@ -7,9 +7,7 @@ Configuration files for painless development work behind Kantar's proxy. Covers:
 * NPM
 * Bower
 
-These proxy URIs contain persistent authentication not associated with any given user whose password does not expire, so should be safe to use as is for posterity.
-
-Place these files in `~/etc` (Unix / Mac) or `C:\Users\username` (Windows), then replace the strings `username` and `password` as appropriate.
+Place these files in `~/etc` (Unix / Mac) or `C:\Users\username` (Windows), then replace the strings with your user & proxy specific settings.
 
 ## Make sure:
 
